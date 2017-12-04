@@ -134,7 +134,7 @@ class SkillsForm(forms.ModelForm):
             'areasOfInterest', 'alumniMentor'
         ]
         labels = {
-            'otherDegrees': 'Degrees from other instiutions:',
+            'otherDegrees': 'Degrees from other institutions:',
             'spokenLanguages': 'Spoken Languages:',
             'programmingLanguages': 'Programming Languages',
             'areasOfInterest': 'Areas of interest/expertise',
